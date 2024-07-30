@@ -5,16 +5,16 @@ I am an American University of Iraq, Slemani graduate, and a fullstack developer
 I enjoy working in fast-paced environments where teams are tight-knit and my impact can be seen. This means that I enjoy taking on big challenges and accomplishing them in a timely manner.
 
 # 🛠 Skills
-## 🌐 Programming languages
+### 🌐 Programming languages
 JavaScript, and Java
 
-## 👤 Frontend Frameworks
+### 👤 Frontend Frameworks
 ReactJS, React Native
 
-## 🔌 Backend Frameworks
+### 🔌 Backend Frameworks
 ExpressJS
 
-## 🔧 Tools
+### 🔧 Tools
 Typescript, TailWind, and Jest
 
 # Contact me
