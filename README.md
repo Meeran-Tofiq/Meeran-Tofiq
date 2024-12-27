@@ -6,7 +6,7 @@ I enjoy working in fast-paced environments where teams are tight-knit and my imp
 
 # 🛠 Skills
 ### 🌐 Programming languages
-JavaScript, and Java
+TypeScript, and Java
 
 ### 👤 Frontend Frameworks
 ReactJS, React Native
@@ -15,7 +15,7 @@ ReactJS, React Native
 ExpressJS
 
 ### 🔧 Tools
-Typescript, TailWind, and Jest
+Vite, Prisma, Tailwind, and Jest
 
 # Contact me
 You can contact me through this email meran.saman2310@gmail.com
