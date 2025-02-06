@@ -1,18 +1,18 @@
 # Hi, I'm Meeran! 👋
-I am an American University of Iraq, Slemani graduate, and a fullstack developer who translates business needs into scalable and maintainable mobile and web applications. I have built and deployed applications using React and React Native with Expo. I value modularity and complexity reduction in my code.
+I am an American University of Iraq, Slemani graduate, and a fullstack developer who translates business needs into scalable and maintainable mobile and web applications. I have built and deployed applications using React and React Native with Expo, and Java with Spring Boot. I value modularity, and complexity reduction in my code.
 
 # 🚀 About Me
 I enjoy working in fast-paced environments where teams are tight-knit and my impact can be seen. This means that I enjoy taking on big challenges and accomplishing them in a timely manner.
 
 # 🛠 Skills
 ### 🌐 Programming languages
-TypeScript, and Java
+JavaScript, TypeScript, and Java
 
 ### 👤 Frontend Frameworks
 ReactJS, React Native
 
 ### 🔌 Backend Frameworks
-ExpressJS
+ExpressJS, Spring Boot
 
 ### 🔧 Tools
 Vite, Prisma, Tailwind, and Jest
